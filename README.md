@@ -1,2 +1,4 @@
 # TIcTacToe
-Using  html,css,javascript
+Using  html,
+css,
+javascript
